@@ -1,0 +1,19 @@
+{
+  "name": "nm-api",
+  "version": "1.0.3",
+  "description": "NetworkManager DBUS API",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thundron/nm-api.git"
+  },
+  "author": "Lorenzo Alberto Maria Ambrosi <la@thundron.dev>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/thundron/nm-api/issues"
+  },
+  "homepage": "https://github.com/thundron/nm-api#readme"
+}
